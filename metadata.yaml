@@ -1,0 +1,30 @@
+_repo: The-Spartan-Twins_9966
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Perkins, Lucy Fitch
+    alias: Fitch, Lucy
+    birthdate: 1865
+    deathdate: 1937
+    gutenberg_agent_id: '1216'
+    url: http://www.gutenberg.org/2009/agents/1216
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Fitch_Perkins
+description: One in a series of stories that introduce a period of history and a geographical
+  location through the adventures of twins. Here, Dion and Daphne, Greek twins living
+  in the fifth century B.C., help save Pericles from his enemies.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- History -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Twins -- Juvenile fiction'
+- GITenberg
+title: The Spartan Twins
+url: http://www.gutenberg.org/ebooks/9966
